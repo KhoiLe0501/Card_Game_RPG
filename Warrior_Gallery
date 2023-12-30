@@ -1,0 +1,50 @@
+Quick Strike [0.5]
+Deals 5 damages [5]
+For every other Quick Strike played this turn, Quick Strike deals 1 more damage [0]
+
+Dragon Slash [2]
+Deals 20 damages [20]
+Adds 1 (Dragon Trigger) to deck [1]
+For every Dragon Slash played, 25% chance to deals twice the damage [25]
+
+Sun and Moon Slash [1]
+Deals 10 damages [10]
+This card counts as 2 Quick Strike [0]
+
+Sever Artery [1]
+Deals 5 damages [5]
+Inflicts 3 stacks of bleeding [3]
+
+Drunken Blow [1]
+Deals 5 damages [5]
+Inflicts 2 turns of weakness [2]
+
+Dismember [2]
+Pierce armor [100]
+Deals 15 damages [15]
+
+Shield Up [1]
+Blocks 8 damages [8]
+
+Two Hands Strike [1]
+Deals 10 damages [10]
+
+Call of Reinforcement [1]
+Blocks 6 damages [6]
+Adds 2 (Quick Strike) to hand [2]
+
+Protector's Defense [1]
+Blocks 8 damages [8]
+Adds 1 (Quick Strike) to hand [1]
+
+"Victory is Mine" [1]
+Adds 4 (Quick Strike) to hand [4]
+
+Dragon Trigger [0]
+Adds 1 (Dragon Slash) to hand [1]
+
+End of Deck
+
+Reinforcement [1]
+
+Remember: the first 3 cards in the file is the default deck

@@ -1,0 +1,15 @@
+Siren's Tear
+Resurrect the players with 30% of the original health [30]
+
+Health Potion
+Heals for 50 health [50]
+
+Long Spears
+Inflicts 1 turn of vulnerable [1]
+
+Fire Bolt Incantation
+Deals 50 damages [50]
+
+End of list
+
+//Item will always have only 1 effect, no cost, and one boolean
