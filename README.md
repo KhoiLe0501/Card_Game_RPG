@@ -9,23 +9,28 @@ This Java program is a simple card battle game where the player engages in one-o
 Character Selection:
 
 The player starts by selecting the role of their character. Currently, the available roles are "warrior" and "mage."
+
 Deck Building:
 
 The player is rewarded with new cards after each battle.
 The player can choose cards to add to their deck from a reward pool.
+
 Battle:
 
 The combat is turn-based, with the player and enemy taking alternating turns.
 Each turn, the player draws cards from their deck and uses them to attack the enemy.
 The enemy has a basic AI to select cards for its attacks.
+
 Game Progression:
 
 The game aims to provide a sense of progression through battles and rewards.
 The player can defeat monsters and receive new cards to strengthen their deck.
+
 Conditions and Items:
 
 The player and enemy can be affected by conditions such as bleeding, burning, poison, etc.
 The player can use items from their inventory to gain advantages or recover from conditions.
+
 End of Battle:
 
 After the battle, the player is informed whether they won or lost.
