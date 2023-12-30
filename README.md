@@ -51,10 +51,15 @@ Condition.java: The class defining conditions that can affect characters during 
 **Future Improvements**
 
 Storyline: Enhance the game with a proper storyline and character progression.
+
 Randomized Monsters: Implement randomly generated monsters with different attributes and titles.
+
 Events: Introduce random events during battles or exploration.
+
 Infinite Mode: Create a mode where monsters scale up in difficulty with each battle.
+
 Special Characters: Add powerful boss characters with unique abilities.
+
 GUI: Implement a graphical user interface for a more immersive experience.
 
 **Execution**
