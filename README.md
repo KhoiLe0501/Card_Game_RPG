@@ -39,9 +39,13 @@ Winning rewards the player with new cards.
 **File Structure**
 
 Main.java: The main class containing the game logic and user interface.
+
 Character.java: The class defining the player and enemy characters, including their attributes, inventory, and methods for combat.
+
 Card.java: The base class for cards, with subclasses like WarriorCard and MageCard for different character roles.
+
 Item.java: The class representing items that the player can use for various effects.
+
 Condition.java: The class defining conditions that can affect characters during battles.
 
 **Future Improvements**
